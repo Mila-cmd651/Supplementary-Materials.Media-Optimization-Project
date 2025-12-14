@@ -1,2 +1,2 @@
 # Supplementary-Materials.Media-Optimization-Project
-Supplementary files for my first research project report
+Supplementary files for the "Cultivation-media optimization project"
